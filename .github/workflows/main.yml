@@ -1,10 +1,9 @@
 name: Waka Readme
-
 on:
+  on: push
   schedule:
     # Runs at 12am UTC
     - cron: "0 0 * * *"
-
 jobs:
   update-readme:
     name: Update Readme with Metrics
