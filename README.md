@@ -2,7 +2,7 @@ Test
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -61,9 +61,6 @@ Terra                    6 hrs 19 mins       ███░░░░░░░░�
 AntlrTesting             6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
 WorldViews-Tex           5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94%
 
-💻 Operating System: 
-Linux                    44 hrs 53 mins      █████████████████████████   100.0%
-
 ```
 
 **I Mostly Code in Java** 
@@ -76,10 +73,6 @@ Python                   1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/solonovamax/solonovamax/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
