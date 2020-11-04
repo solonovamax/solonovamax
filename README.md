@@ -33,9 +33,10 @@
 <br />
 <br />
 
-I think that open source projects are super important.
-As such, almost every major project I've ever worked on is hosted here on github.
-(Though, I may be moving to gitlab in the near future.)
+I'm a 17 year old dev from Quebec, Canada.
+I spend most of my time writing open source code, as I believe it's super important.
+
+The rest of my time is spent on either School or just browsing through social media.
 
 <br/>
 
@@ -72,14 +73,16 @@ Here are some of the tools I use to get my work done:
 
 
 
+
+
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 211 Contributions in the Year 2020
+> 🏆 207 Contributions in the Year 2020
  > 
-> 📦 36.3 kB Used in Github's Storage 
+> 📦 1.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
