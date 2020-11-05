@@ -76,11 +76,11 @@ Here are some of the tools I use to get my work done:
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 211 Contributions in the Year 2020
+> 🏆 217 Contributions in the Year 2020
  > 
 > 📦 36.5 kB Used in Github's Storage 
  > 
