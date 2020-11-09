@@ -34,7 +34,7 @@
 <br />
 
 I'm a 17 year old dev from Quebec, Canada.
-I spend most of my time writing open source code, as I believe it's super important.
+I spend most of my time writing open source code, as I believe keeping software free and open is critical.
 
 The rest of my time is spent on either school or just scrolling mindlessly through social media.
 
