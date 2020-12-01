@@ -76,11 +76,11 @@ Here are some of the tools I use to get my work done:
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 📦 36.6 kB Used in Github's Storage 
+> 📦 36.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
