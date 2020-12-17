@@ -80,13 +80,13 @@ Here are some of the tools I use to get my work done:
 
 **🐱 My Github Data** 
 
-> 🏆 261 Contributions in the Year 2020
+> 🏆 263 Contributions in the Year 2020
  > 
 > 📦 36.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories
+> 📜 26 Public Repositories
  > 
 > 🔑 6 Private Repositories 
 
