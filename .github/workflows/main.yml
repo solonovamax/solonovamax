@@ -1,5 +1,8 @@
 name: Waka Readme
 on:
+  push:
+    branches:
+      - '**'
   schedule:
     # Runs at 12am UTC
     - cron: "0 0 * * *"
