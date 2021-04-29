@@ -80,9 +80,9 @@ Here are some of the tools I use to get my work done:
 
 **🐱 My Github Data** 
 
-> 🏆 101 Contributions in the Year 2021
+> 🏆 102 Contributions in the Year 2021
  > 
-> 📦 62.2 kB Used in Github's Storage 
+> 📦 62.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
