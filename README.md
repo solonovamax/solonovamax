@@ -42,26 +42,28 @@ The rest of my time is spent on either school or just scrolling mindlessly throu
 
 I mostly work in Java, but here are some of the languages that I've used:
 
-<code><img height="20" src="https://img.icons8.com/color/4x/java-coffee-cup-logo.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/javascript.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/nodejs.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/python.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/html-5.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/css3.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/2x/graphql.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/java-coffee-cup-logo.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/kotlin.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/javascript.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/nodejs.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/python.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/html-5.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/css3.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/graphql.png"></code>
 
 You can find me working on various types of projects.
 But from Minecraft mod development to Discord bots, I mostly work on backend type stuff as opposed to front end.
 
 Here are some of the tools I use to get my work done:
 
-<code><img height="20" src="https://img.icons8.com/material/4x/intellij-idea.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/4x/git.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/4x/docker.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/4x/linux.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/4x/mongodb.png"></code>
-<code><img height="20" src="https://img.icons8.com/metro/4x/mysql.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluent/2x/console.png"></code>
+<code><img height="20" src="https://img.icons8.com/material/1x/intellij-idea.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/git.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/docker.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/linux.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/mongodb.png"></code>
+<code><img height="20" src="https://img.icons8.com/metro/1x/mysql.png"></code>
+<code><img height="20" src="https://img.icons8.com/fluent/1x/console.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/1x/open-source.png"></code>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Arch%20Linux&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=flat&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
@@ -80,7 +82,7 @@ Here are some of the tools I use to get my work done:
 
 **🐱 My Github Data** 
 
-> 🏆 119 Contributions in the Year 2021
+> 🏆 117 Contributions in the Year 2021
  > 
 > 📦 62.3 kB Used in Github's Storage 
  > 
@@ -118,23 +120,23 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Kotlin                   19 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   24.97% 
-TeX                      19 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   24.82% 
-Java                     18 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   23.74% 
-Other                    5 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.89% 
-YAML                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
+TeX                      20 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   27.55% 
+Kotlin                   18 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   25.65% 
+Java                     13 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
+Other                    5 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+YAML                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 🔥 Editors: 
-IntelliJ                 76 hrs 15 mins      ████████████████████████░   97.62% 
-WebStorm                 1 hr 47 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
-PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+IntelliJ                 70 hrs 52 mins      ████████████████████████░   97.44% 
+WebStorm                 1 hr 47 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
+PyCharm                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🐱‍💻 Projects: 
-PolyhedralBot            14 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
-Japanese Pop Literature -13 hrs 4 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
-Terra                    10 hrs 21 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Flirting                 8 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
-BiomeBundle-Terra        7 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
+PolyhedralBot            14 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
+Japanese Pop Literature -13 hrs 44 mins      ████░░░░░░░░░░░░░░░░░░░░░   18.88% 
+Flirting                 8 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
+BiomeBundle-Terra        7 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
+Terra                    6 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.25%
 
 ```
 
