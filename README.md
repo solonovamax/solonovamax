@@ -1,3 +1,5 @@
+<!-- dummy -->
+
 <img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/solonovamax/solonovamax/main/solonovamax-circle.png" />
 
 ### Yo. I'm solonovamax.
