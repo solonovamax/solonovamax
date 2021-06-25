@@ -5,6 +5,7 @@ on:
       - '**'
   schedule:
     # Runs at 12am UTC
+    # ... hopefully
     - cron: "0 0 * * *"
 jobs:
   update-readme:
