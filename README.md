@@ -84,13 +84,13 @@ Here are some of the tools I use to get my work done:
 
 **🐱 My Github Data** 
 
-> 🏆 160 Contributions in the Year 2021
+> 🏆 156 Contributions in the Year 2021
  > 
 > 📦 62.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
