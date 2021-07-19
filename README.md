@@ -69,7 +69,7 @@ Here are some of the tools I use to get my work done:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Arch%20Linux&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=flat&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Main%20Language-Java-informational?style=flat&logo=Java&logoColor=white&color=007ec6)
+![](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=flat&logo=Java&logoColor=white&color=007ec6)
 ![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=flat)
 
 
