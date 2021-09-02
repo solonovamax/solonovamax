@@ -12,7 +12,7 @@
     <img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/color/2x/twitter.png">
 </a>
 
-<a href="https://discord.gg/YFSQ4cF">
+<a href="https://discord.solonovamax.gay">
     <img align="left" alt="Discord" width="32px" src="https://img.icons8.com/color/2x/discord-logo.png">
 </a>
 
@@ -32,8 +32,8 @@
     <img align="left" alt="Spotify" width="32px" src="https://img.icons8.com/color/2x/spotify.png">
 </a> -->
 
-<br />
-<br />
+<br/>
+<br/>
 
 I'm an 18 year old dev from Quebec, Canada.
 I spend most of my time writing open source code, as I believe keeping software free and open is critical.
@@ -142,18 +142,3 @@ PerspectiveModv4         5 hrs 44 mins       █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<!--
-**solonovamax/solonovamax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
