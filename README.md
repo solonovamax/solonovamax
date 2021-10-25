@@ -42,16 +42,20 @@
 <br/>
 
 I'm an 18 year old dev from Quebec, Canada.
-I spend most of my time writing open source code, as I believe keeping software free and open is critical.
+I spend most of my time writing code for and developing open source projects, as I believe that transparent and free software is very important.
+I frequently contribute to many projects and am always looking to do more for the open source community!
 
-The rest of my time is spent on either school or just scrolling mindlessly through social media.
+The rest of my time is spent either on my school work or social media. I'm currently persuing Computer Science and Math, and hoping to get a degree in it.
+
+I'm primarily a backend developer who focuses on JVM based apps. I use Kotlin and Java as my two primary languages.
 
 <br/>
 
-I mostly work in Java, but here are some of the languages that I've used:
+I mostly work in Kotlin and Java, but here are some of the other languages I have experience in:
 
-<kbd><img height="32" alt="Java" src="https://img.icons8.com/color/1x/java-coffee-cup-logo.png"></kbd>
 <kbd><img height="32" alt="Kotlin" src="https://img.icons8.com/color/1x/kotlin.png"></kbd>
+<kbd><img height="32" alt="Java" src="https://img.icons8.com/color/1x/java-coffee-cup-logo.png"></kbd>
+<kbd><img height="32" alt="LaTeX" src="https://img.icons8.com/color/1x/latex.png"></kbd>
 <kbd><img height="32" alt="Bash" src="https://img.icons8.com/color/1x/console.png"></kbd>
 <kbd><img height="32" alt="JavaScript" src="https://img.icons8.com/color/1x/javascript.png"></kbd>
 <kbd><img height="32" alt="NodeJS" src="https://img.icons8.com/color/1x/nodejs.png"></kbd>
