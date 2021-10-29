@@ -88,7 +88,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 498 Contributions in the Year 2021
+> 🏆 499 Contributions in the Year 2021
  > 
 > 📦 62.6 kB Used in Github's Storage 
  > 
