@@ -2,6 +2,8 @@
 
 ### Yo. I'm solonovamax.
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierreschwang&margin-w=15&row=1"/></a> 
+
 <a href="https://gitlab.com/solonovamax">
     <img align="left" alt="Reddit" width="48px" src="https://img.icons8.com/color/2x/gitlab.png">
 </a>
