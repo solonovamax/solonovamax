@@ -2,8 +2,6 @@
 
 ### Yo. I'm solonovamax.
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierreschwang&margin-w=15&row=1"/></a> 
-
 <a href="https://gitlab.com/solonovamax">
     <img align="left" alt="Reddit" width="48px" src="https://img.icons8.com/color/2x/gitlab.png">
 </a>
@@ -50,6 +48,9 @@ I frequently contribute to many projects and am always looking to do more for th
 The rest of my time is spent either on my school work or social media. I'm currently persuing Computer Science and Math, and hoping to get a degree in it.
 
 I'm primarily a backend developer who focuses on JVM based apps. I use Kotlin and Java as my two primary languages.
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierreschwang&margin-w=15&row=1"/></a> 
 
 <br/>
 
