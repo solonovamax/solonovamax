@@ -91,13 +91,13 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 34 Contributions in the Year 2022
+> 🏆 38 Contributions in the Year 2022
  > 
 > 📦 62.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 75 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
