@@ -10,8 +10,11 @@
     <img align="left" alt="Discord" width="48px" src="https://img.icons8.com/color/2x/discord-logo.png">
 </a>
 
-<a href="https://matrix.to/#/@solonovamax:matrix.org">
-    <img align="left" alt="Matrix" width="48px" src="https://img.icons8.com/material/2x/matrix-logo.png">
+<a href="https://matrix.to/#/@solonovamax:matrix.org?#gh-light-mode-only">
+    <img align="left" alt="Matrix" width="48px" src="https://img.icons8.com/000000/material/2x/matrix-logo.png">
+</a>
+<a href="https://matrix.to/#/@solonovamax:matrix.org?#gh-dark-mode-only">
+    <img align="left" alt="Matrix" width="48px" src="https://img.icons8.com/FFFFFF/material/2x/matrix-logo.png">
 </a>
 
 <a href="https://twitter.com/solonovamax">
@@ -80,7 +83,8 @@ Here are some of the tools I use to get my work done:
 <kbd><img height="32" src="https://img.icons8.com/color/2x/docker.png"></kbd>
 <kbd><img height="32" src="https://img.icons8.com/color/2x/mongodb.png"></kbd>
 <kbd><img height="32" src="https://img.icons8.com/color/2x/nginx.png"></kbd>
-<kbd><img height="32" src="https://img.icons8.com/metro/2x/mysql.png"></kbd>
+<a href="?#gh-light-mode-only"><kbd><img height="32" src="https://img.icons8.com/metro/2x/mysql.png"></kbd></a>
+<a href="?#gh-dark-mode-only"><kbd><img height="32" src="https://img.icons8.com/FFFFFF/metro/2x/mysql.png"></kbd></a>
 
 ![](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=Arch%20Linux&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=flat&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
