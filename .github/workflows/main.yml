@@ -1,18 +1,18 @@
-name: Waka Readme
+name: Update README with Waka Stats
 on:
-  push:
-    branches:
-      - '**'
-  schedule:
-    # Runs at 12am UTC
-    # ... hopefully
-    - cron: "0 0 * * *"
+    schedule:
+        # Runs at 5am UTC
+        # ... hopefully
+        # 5am UTC is 12am EST (midnight)
+        - cron: "0 5 * * *"
+    workflow_dispatch:
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README with Code Metrics from Wakatime API
     runs-on: ubuntu-latest
     steps:
-      - uses: solonovamax/waka-readme-stats@master
+      - uses: solonovamax/waka-readme-stats@latest
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
