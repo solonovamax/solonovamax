@@ -93,7 +93,7 @@ Here are some of the tools I use to get my work done:
 
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C527%20hrs%2021%20mins-blue&style=for-the-badge)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C527%20hrs%2025%20mins-blue?style=for-the-badge)
 
 **My GitHub Data**
 
@@ -154,7 +154,7 @@ Strata                   6 hrs 23 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 17/03/2022 19:51:28 UTC
+ Last Updated on 17/03/2022 19:54:48 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
