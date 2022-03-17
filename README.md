@@ -93,19 +93,19 @@ Here are some of the tools I use to get my work done:
 
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C527%20hrs%2012%20mins-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C527%20hrs%2021%20mins-blue&style=for-the-badge)
 
-**🐱 My GitHub Data** 
+**My GitHub Data**
 
-> 🏆 164 Contributions in the Year 2022
+> 164 Contributions in the Year 2022
 > 
-> 📦 64.3 kB Used in GitHub's Storage
+> 64.3 kB Used in GitHub's Storage
 > 
-> 💼 Opted to Hire
+> Opted to Hire
 > 
-> 📜 89 Public Repositories
+> 89 Public Repositories
 > 
-> 🔑 7 Private Repositories
+> 7 Private Repositories
 > 
 **When I work** 
 
@@ -132,19 +132,19 @@ Sunday       57 commits     ████░░░░░░░░░░░░░�
 **Where I work** 
 
 ```text
-⌚︎ Time Zone: America/Toronto
+Time Zone: America/Toronto
 
-💬 Programming Languages: 
+Programming Languages: 
 Kotlin                   27 hrs 54 mins      ████████████░░░░░░░░░░░░░   49.4% 
 Java                     6 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
 TeX                      5 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
 HTML                     3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
 JSON                     3 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.31%
 
-🔥 Editors: 
+Editors: 
 IntelliJ                 56 hrs 29 mins      █████████████████████████   100.0%
 
-🐱💻 Projects: 
+Projects: 
 PolyBot                  10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
 school-latex             8 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
 solonovamax.gay          7 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
@@ -154,7 +154,7 @@ Strata                   6 hrs 23 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 17/03/2022 19:42:25 UTC
+ Last Updated on 17/03/2022 19:51:28 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
