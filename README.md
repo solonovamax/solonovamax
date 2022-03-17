@@ -89,8 +89,7 @@ Here are some of the tools I use to get my work done:
 ![](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=for-the-badge&logo=Arch%20Linux&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
-![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)
-<!--START_SECTION:waka-->
+![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)<!--START_SECTION:waka-->
 ![Code Time](https://img.shields.io/badge/Code%20Time-1%2C527%20hrs%2027%20mins-blue?style=for-the-badge)
 
 **My GitHub Data**
