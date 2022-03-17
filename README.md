@@ -93,7 +93,7 @@ Here are some of the tools I use to get my work done:
 
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -144,7 +144,7 @@ JSON                     3 hrs 34 mins       █░░░░░░░░░░�
 🔥 Editors: 
 IntelliJ                 56 hrs 29 mins      █████████████████████████   100.0%
 
-🐱💻 Projects: 
+🐱‍💻 Projects: 
 PolyBot                  10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
 school-latex             8 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
 solonovamax.gay          7 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
@@ -154,7 +154,7 @@ Strata                   6 hrs 23 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 17/03/2022 18:40:57 UTC
+ Last Updated on 17/03/2022 18:55:10 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
