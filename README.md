@@ -90,11 +90,9 @@ Here are some of the tools I use to get my work done:
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
 ![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C527%20hrs%2027%20mins-blue?style=for-the-badge)
-
 **My GitHub Data**
 
-> 164 Contributions in the Year 2022
+> 176 Contributions in the Year 2022
 > 
 > 64.3 kB Used in GitHub's Storage
 > 
@@ -151,7 +149,7 @@ Strata                   6 hrs 23 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 17/03/2022 19:57:41 UTC
+ Last Updated on 18/03/2022 05:19:07 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
