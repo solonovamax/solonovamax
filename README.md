@@ -53,7 +53,7 @@ The rest of my time is spent either on my school work or social media. I'm curre
 I'm primarily a backend developer who focuses on JVM based apps. I use Kotlin and Java as my two primary languages.
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solonovamax&margin-w=15&row=1"/></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solonovamax&margin-w=15&row=2"/></a> 
 
 <br/>
 
