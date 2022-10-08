@@ -90,13 +90,13 @@ Here are some of the tools I use to get my work done:
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
 ![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C784%20hrs%208%20mins-blue?style=for-the-badge)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C780%20hrs%2059%20mins-blue?style=for-the-badge)
 
 **My GitHub Data**
 
-> 390 Contributions in the Year 2022
+> 397 Contributions in the Year 2022
 > 
-> 88.1 kB Used in GitHub's Storage
+> 87.8 kB Used in GitHub's Storage
 > 
 > Opted to Hire
 > 
@@ -108,20 +108,20 @@ Here are some of the tools I use to get my work done:
 
 ```text
 I work mostly in the mornings: 
-Morning      33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-Daytime      266 commits    █████████████░░░░░░░░░░░░   55.3% 
-Evening      156 commits    ████████░░░░░░░░░░░░░░░░░   32.43% 
-Night        26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
+Morning      33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
+Daytime      273 commits    ██████████████░░░░░░░░░░░   55.94% 
+Evening      156 commits    ████████░░░░░░░░░░░░░░░░░   31.97% 
+Night        26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.33%
 
 
 I'm Most Productive on Thursday: 
-Monday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
-Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.72% 
-Thursday     89 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-Friday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
-Saturday     64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
-Sunday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.63%
+Monday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61% 
+Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
+Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
+Thursday     89 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.24% 
+Friday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
+Saturday     64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
+Sunday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39%
 
 ```
 
@@ -151,7 +151,7 @@ konf                     4 hrs 47 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 07/10/2022 19:48:23 UTC
+ Last Updated on 08/10/2022 05:29:59 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
