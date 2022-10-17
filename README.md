@@ -90,7 +90,7 @@ Here are some of the tools I use to get my work done:
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
 ![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C793%20hrs%2023%20mins-blue?style=for-the-badge)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C797%20hrs%201%20min-blue?style=for-the-badge)
 
 **My GitHub Data**
 
@@ -132,26 +132,26 @@ Sunday       76 commits     ████░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   25 hrs 18 mins      ███████████░░░░░░░░░░░░░░   44.48% 
-Java                     16 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   28.25% 
-JSON                     3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
-Properties               2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
-YAML                     1 hr 38 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87%
+Kotlin                   25 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.83% 
+Java                     17 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   29.57% 
+JSON                     3 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.96% 
+Properties               2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.11% 
+YAML                     1 hr 38 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
 
 Editors: 
-IntelliJ                 56 hrs 55 mins      █████████████████████████   100.0%
+IntelliJ                 60 hrs 32 mins      █████████████████████████   100.0%
 
 Projects: 
-leather-colorizer        12 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   22.2% 
-StitchedSnow             7 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-FabSit                   5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-PolyBot                  5 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
-konf                     4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.41%
+leather-colorizer        12 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   20.87% 
+StitchedSnow             7 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
+FabSit                   5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
+PolyBot                  5 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+konf                     4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.9%
 
 ```
 
 
- Last Updated on 16/10/2022 05:44:45 UTC
+ Last Updated on 17/10/2022 06:17:42 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
