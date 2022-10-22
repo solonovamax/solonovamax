@@ -90,17 +90,17 @@ Here are some of the tools I use to get my work done:
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
 ![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C813%20hrs%2025%20mins-blue?style=for-the-badge)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C814%20hrs%2053%20mins-blue?style=for-the-badge)
 
 **My GitHub Data**
 
-> 402 Contributions in the Year 2022
+> 404 Contributions in the Year 2022
 > 
-> 87.8 kB Used in GitHub's Storage
+> 87.9 kB Used in GitHub's Storage
 > 
 > Opted to Hire
 > 
-> 107 Public Repositories
+> 108 Public Repositories
 > 
 > 8 Private Repositories
 > 
@@ -118,8 +118,8 @@ I'm Most Productive on Friday:
 Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
 Tuesday      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
 Wednesday    50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-Thursday     73 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
-Friday       83 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
+Thursday     72 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.4% 
+Friday       84 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
 Saturday     64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
 Sunday       76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31%
 
@@ -132,26 +132,26 @@ Sunday       76 commits     ████░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   26 hrs 40 mins      ████████████░░░░░░░░░░░░░   48.29% 
-Java                     8 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-TeX                      8 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-JSON                     2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
-LaTeX source file        1 hr 42 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1%
+Kotlin                   27 hrs 38 mins      ████████████░░░░░░░░░░░░░   49.36% 
+Java                     8 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
+TeX                      8 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
+JSON                     2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.34% 
+LaTeX source file        1 hr 43 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09%
 
 Editors: 
-IntelliJ                 55 hrs 14 mins      █████████████████████████   100.0%
+IntelliJ                 55 hrs 59 mins      █████████████████████████   100.0%
 
 Projects: 
-leather-colorizer        13 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   24.15% 
-school-latex             12 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96% 
-PolyBot                  6 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
-konf                     4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.66% 
-BetterRecipes            2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+leather-colorizer        13 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   23.95% 
+school-latex             12 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71% 
+PolyBot                  6 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+konf                     4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
+BetterRecipes            2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
 
 ```
 
 
- Last Updated on 21/10/2022 05:49:52 UTC
+ Last Updated on 22/10/2022 05:41:53 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
