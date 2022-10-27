@@ -90,7 +90,7 @@ Here are some of the tools I use to get my work done:
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
 ![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C824%20hrs%2010%20mins-blue?style=for-the-badge)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C828%20hrs%2035%20mins-blue?style=for-the-badge)
 
 **My GitHub Data**
 
@@ -132,26 +132,26 @@ Sunday       76 commits     ████░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   25 hrs              ███████████░░░░░░░░░░░░░░   44.96% 
-Java                     10 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   19.77% 
-TeX                      9 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-LaTeX source file        2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
-JSON                     1 hr 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
+Kotlin                   28 hrs 27 mins      ███████████░░░░░░░░░░░░░░   47.45% 
+Java                     11 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   19.64% 
+TeX                      9 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
+LaTeX source file        2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
+JSON                     1 hr 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
 
 Editors: 
-IntelliJ                 55 hrs 37 mins      █████████████████████████   100.0%
+IntelliJ                 59 hrs 58 mins      █████████████████████████   100.0%
 
 Projects: 
-school-latex             14 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   25.22% 
-leather-colorizer        12 hrs 45 mins      █████░░░░░░░░░░░░░░░░░░░░   22.94% 
-PolyBot                  6 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-konf                     3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
-MonstersInTheCloset      2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.37%
+leather-colorizer        16 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   26.8% 
+school-latex             14 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   23.39% 
+PolyBot                  6 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+konf                     4 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
+MonstersInTheCloset      2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
 
 ```
 
 
- Last Updated on 26/10/2022 05:30:44 UTC
+ Last Updated on 27/10/2022 05:26:42 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
