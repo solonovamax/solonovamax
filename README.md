@@ -90,7 +90,7 @@ Here are some of the tools I use to get my work done:
 ![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
 ![](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
 ![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C837%20hrs%2018%20mins-blue?style=for-the-badge)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C839%20hrs%2015%20mins-blue?style=for-the-badge)
 
 **My GitHub Data**
 
@@ -132,26 +132,26 @@ Sunday       82 commits     ████░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   24 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.87% 
-Java                     16 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   28.27% 
-TeX                      8 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
-LaTeX source file        1 hr 51 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
-JSON                     1 hr 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
+Kotlin                   24 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   39.61% 
+Java                     18 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   30.44% 
+TeX                      8 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
+LaTeX source file        1 hr 51 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04% 
+JSON                     1 hr 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
 
 Editors: 
-IntelliJ                 59 hrs 12 mins      █████████████████████████   100.0%
+IntelliJ                 61 hrs 9 mins       █████████████████████████   100.0%
 
 Projects: 
-leather-colorizer        15 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46% 
-school-latex             13 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   21.99% 
-PolyBot                  5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.74% 
-PrismLauncher            4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.85% 
-MonstersInTheCloset      2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
+leather-colorizer        15 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65% 
+school-latex             13 hrs 1 min        █████░░░░░░░░░░░░░░░░░░░░   21.29% 
+PrismLauncher            6 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
+PolyBot                  5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+MonstersInTheCloset      2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
 
 
- Last Updated on 02/11/2022 05:42:52 UTC
+ Last Updated on 03/11/2022 05:22:49 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
