@@ -156,5 +156,5 @@ MonstersInTheCloset      2 hrs 59 mins       █░░░░░░░░░░�
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=solonovamax&custom_title=solonovamax%27s%20Github%20Stats&langs_count=5&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=solonovamax&custom_title=solonovamax%27s%20Primary%20Languages&langs_count=10&show_icons=true&theme=github_dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=solonovamax&custom_title=solonovamax%27s%20Primary%20Languages&langs_count=10&show_icons=true&theme=github_dark"/>
 </div>
