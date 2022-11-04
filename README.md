@@ -86,11 +86,13 @@ Here are some of the tools I use to get my work done:
 <a href="?#gh-light-mode-only"><kbd><img height="32" src="https://img.icons8.com/metro/2x/mysql.png"></kbd></a>
 <a href="?#gh-dark-mode-only"><kbd><img height="32" src="https://img.icons8.com/FFFFFF/metro/2x/mysql.png"></kbd></a>
 
-![](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=for-the-badge&logo=Arch%20Linux&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
-![](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
-![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C844%20hrs%2043%20mins-blue?style=for-the-badge)
+![Operating System](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=for-the-badge&logo=Arch%20Linux&logoColor=white&color=007ec6)
+![Editor](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
+![Main Languages](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
+![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)
+![Code Time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/solonovamax/interval:all_time&label=Code%20Time&style=for-the-badge&color=blue)
+
+<!--START_SECTION:waka-->
 
 **My GitHub Data**
 
