@@ -15,6 +15,7 @@ jobs:
       - uses: solonovamax/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_URL: "https://wakapi.dev/api"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: False
           SHOW_PROFILE_VIEWS: False
