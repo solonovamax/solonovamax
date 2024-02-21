@@ -90,7 +90,7 @@ Here are some of the tools I use to get my work done:
 ![Editor](https://img.shields.io/badge/Editor-IntelliJ%20Idea-informational?style=for-the-badge&logo=IntelliJ%20Idea&logoColor=white&color=007ec6)
 ![Main Languages](https://img.shields.io/badge/Main%20Languages-Java%20%26%20Kotlin-informational?style=for-the-badge&logo=Java&logoColor=white&color=007ec6)
 ![Profile Views](https://komarev.com/ghpvc/?username=solonovamax&color=blue&style=for-the-badge)
-![Code Time](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/solonovamax/interval:all_time&label=Code%20Time&style=for-the-badge&color=blue)
+![Code Time](https://img.shields.io/endpoint?url=https://wakapi.solonovamax.gay/api/compat/shields/v1/solonovamax/interval:all_time&label=Code%20Time&style=for-the-badge&color=blue)
 
 <!--START_SECTION:waka-->
 **My GitHub Data**
