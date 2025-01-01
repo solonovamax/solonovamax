@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 510 Contributions in the Year 2024
+> 0 Contributions in the Year 2025
 > 
 > 130.5 kB Used in GitHub's Storage
 > 
@@ -152,7 +152,7 @@ nyx                      1 hrs 29 mins       ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/12/2024 05:15:27 UTC
+ Last Updated on 01/01/2025 05:16:02 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
