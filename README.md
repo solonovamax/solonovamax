@@ -44,7 +44,7 @@
 <br/>
 <br/>
 
-I'm an 18 year old dev from Quebec, Canada.
+I'm an 22 year old dev from Quebec, Canada.
 I spend most of my time writing code for and developing open source projects, as I believe that transparent and free software is very important.
 I frequently contribute to many projects and am always looking to do more for the open source community!
 
