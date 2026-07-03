@@ -95,13 +95,13 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 89 Contributions in the Year 2026
+> 91 Contributions in the Year 2026
 > 
 > 133.2 kB Used in GitHub's Storage
 > 
 > Opted to Hire
 > 
-> 190 Public Repositories
+> 191 Public Repositories
 > 
 > 9 Private Repositories
 > 
@@ -133,27 +133,27 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-C++                      11 hrs 24 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
-Python                   8 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Kotlin                   7 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
-Yaml                     6 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
-Markdown                 6 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.84%
+Kotlin                   13 hrs 28 mins      ███░░░░░░░░░░░░░░░░░░░░░░   15.71% 
+C++                      11 hrs 24 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
+Python                   8 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
+Yaml                     7 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.32% 
+Markdown                 6 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.88%
 
 Editors: 
-CLion                    49 hrs 7 mins       ████████████████░░░░░░░░░   64.43% 
-IntelliJ                 27 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   35.57%
+CLion                    48 hrs 29 mins      ██████████████░░░░░░░░░░░   56.54% 
+IntelliJ                 37 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   43.46%
 
 Projects: 
-robot-repo-ros2          48 hrs 55 mins      ████████████████░░░░░░░░░   64.17% 
-TraxMA                   18 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-blog.solonovamax.gay     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.16% 
-congo-blowfish           2 hrs 54 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
-Nyx                      2 hrs 19 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
+robot-repo-ros2          48 hrs 17 mins      ██████████████░░░░░░░░░░░   56.31% 
+TraxMA                   21 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   25.63% 
+gradle-node-plugin       6 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
+blog.solonovamax.gay     3 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+congo-blowfish           2 hrs 54 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
 
 ```
 
 
- Last Updated on 02/07/2026 08:10:52 UTC
+ Last Updated on 03/07/2026 08:08:03 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
