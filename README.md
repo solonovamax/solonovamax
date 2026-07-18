@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 93 Contributions in the Year 2026
+> 94 Contributions in the Year 2026
 > 
 > 133.2 kB Used in GitHub's Storage
 > 
@@ -133,27 +133,27 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   14 hrs 30 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
-Python                   12 hrs 21 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-Typescript               11 hrs 30 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.56% 
-Vue                      11 hrs 11 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Cmake                    9 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.27%
+Typescript               17 hrs 4 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
+Kotlin                   14 hrs 25 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   11.7% 
+Vue                      11 hrs 41 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
+Python                   11 hrs 38 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
+Cmake                    9 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.07%
 
 Editors: 
-CLion                    63 hrs 43 mins      █████████████░░░░░░░░░░░░   52.96% 
-IntelliJ                 56 hrs 36 mins      ███████████░░░░░░░░░░░░░░   47.04%
+CLion                    63 hrs 43 mins      ████████████░░░░░░░░░░░░░   51.69% 
+IntelliJ                 59 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.31%
 
 Projects: 
-robot-repo-ros2          59 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.42% 
-TraxMA                   37 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   31.34% 
-gradle-node-plugin       9 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
-blog.solonovamax.gay     3 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64% 
-congo-blowfish           2 hrs 54 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
+robot-repo-ros2          59 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.24% 
+TraxMA                   44 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   35.99% 
+gradle-node-plugin       9 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
+Nyx                      2 hrs 54 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
+congo-blowfish           2 hrs 21 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
 
 ```
 
 
- Last Updated on 17/07/2026 07:15:38 UTC
+ Last Updated on 18/07/2026 06:59:22 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
