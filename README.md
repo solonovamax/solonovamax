@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 103 Contributions in the Year 2026
+> 105 Contributions in the Year 2026
 > 
 > 133.1 kB Used in GitHub's Storage
 > 
@@ -133,27 +133,27 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Typescript               26 hrs 54 mins      ████░░░░░░░░░░░░░░░░░░░░░   19.86% 
-Kotlin                   25 hrs 41 mins      ████░░░░░░░░░░░░░░░░░░░░░   18.96% 
-Vue                      14 hrs 59 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-Python                   10 hrs 47 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   7.96% 
-Cmake                    10 hrs 17 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   7.6%
+Typescript               26 hrs 54 mins      █████░░░░░░░░░░░░░░░░░░░░   21.09% 
+Kotlin                   23 hrs 28 mins      ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
+Vue                      14 hrs 59 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   11.75% 
+Python                   10 hrs 47 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
+Cmake                    10 hrs 11 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   7.98%
 
 Editors: 
-IntelliJ                 82 hrs 58 mins      ███████████████░░░░░░░░░░   61.23% 
-CLion                    52 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   38.77%
+IntelliJ                 80 hrs 39 mins      ███████████████░░░░░░░░░░   63.23% 
+CLion                    46 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   36.77%
 
 Projects: 
-TraxMA                   55 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   41.25% 
-robot-repo-ros2          48 hrs 0 mins       ████████░░░░░░░░░░░░░░░░░   35.43% 
-ktor                     16 hrs 40 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
-gradle-node-plugin       9 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
-sensor_filters           1 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+TraxMA                   55 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   43.84% 
+robot-repo-ros2          42 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   33.27% 
+ktor                     14 hrs 19 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
+gradle-node-plugin       9 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
+sensor_filters           1 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 
 ```
 
 
- Last Updated on 27/07/2026 08:29:45 UTC
+ Last Updated on 28/07/2026 07:36:53 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
