@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 112 Contributions in the Year 2026
+> 113 Contributions in the Year 2026
 > 
 > 133.2 kB Used in GitHub's Storage
 > 
@@ -133,27 +133,27 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Typescript               32 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   29.11% 
-Kotlin                   17 hrs 48 mins      ███░░░░░░░░░░░░░░░░░░░░░░   15.72% 
-Vue                      14 hrs 38 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-C++                      13 hrs 37 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
-C/c++                    7 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.96%
+Typescript               34 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   29.88% 
+Kotlin                   23 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   20.15% 
+Vue                      15 hrs 39 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+C++                      11 hrs 2 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
+C/c++                    6 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
 
 Editors: 
-IntelliJ                 78 hrs 52 mins      █████████████████░░░░░░░░   69.63% 
-CLion                    34 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   30.37%
+IntelliJ                 88 hrs 8 mins       ███████████████████░░░░░░   76.49% 
+CLion                    27 hrs 5 mins       █████░░░░░░░░░░░░░░░░░░░░   23.51%
 
 Projects: 
-TraxMA                   64 hrs 20 mins      ██████████████░░░░░░░░░░░   56.8% 
-robot-repo-ros2          24 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   21.47% 
-ktor                     14 hrs 16 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
-maplibre-src             5 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.18% 
-sensor_filters           1 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
+TraxMA                   73 hrs 29 mins      ███████████████░░░░░░░░░░   63.78% 
+robot-repo-ros2          20 hrs 22 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
+ktor                     14 hrs 16 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
+maplibre-src             4 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.15% 
+maplibre-native-qt       1 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 
 ```
 
 
- Last Updated on 11/08/2026 05:53:03 UTC
+ Last Updated on 13/08/2026 06:14:57 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
