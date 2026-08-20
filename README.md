@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 119 Contributions in the Year 2026
+> 121 Contributions in the Year 2026
 > 
 > 133.2 kB Used in GitHub's Storage
 > 
@@ -109,20 +109,20 @@ Here are some of the tools I use to get my work done:
 
 ```text
 I work mostly in the mornings: 
-Morning      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-Daytime      197 commits    ███████████░░░░░░░░░░░░░░   44.77% 
-Evening      159 commits    █████████░░░░░░░░░░░░░░░░   36.14% 
-Night        54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27%
+Morning      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
+Daytime      197 commits    ███████████░░░░░░░░░░░░░░   44.67% 
+Evening      160 commits    █████████░░░░░░░░░░░░░░░░   36.28% 
+Night        54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24%
 
 
 I'm Most Productive on Tuesday: 
-Monday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
-Tuesday      89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.23% 
-Wednesday    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
-Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Saturday     49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
-Sunday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45%
+Monday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
+Tuesday      89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.18% 
+Wednesday    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
+Saturday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
+Sunday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43%
 
 ```
 
@@ -133,27 +133,27 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   31 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-Typescript               28 hrs 45 mins      █████░░░░░░░░░░░░░░░░░░░░   22.41% 
-C++                      12 hrs 32 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
-Vue                      9 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
-C/c++                    7 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.55%
+Kotlin                   30 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   22.84% 
+Typescript               28 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   21.28% 
+C++                      12 hrs 32 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
+Vue                      9 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+Javascript               7 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.32%
 
 Editors: 
-IntelliJ                 90 hrs 20 mins      █████████████████░░░░░░░░   70.38% 
-CLion                    38 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   29.62%
+IntelliJ                 97 hrs 6 mins       █████████████████░░░░░░░░   71.86% 
+CLion                    38 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   28.14%
 
 Projects: 
-TraxMA                   75 hrs 55 mins      ██████████████░░░░░░░░░░░   59.15% 
-robot-repo-ros2          29 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   22.94% 
-ktor                     14 hrs 16 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-maplibre-src             4 hrs 38 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
-imgui-src                1 hrs 12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+TraxMA                   82 hrs 40 mins      ███████████████░░░░░░░░░░   61.18% 
+robot-repo-ros2          29 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   21.79% 
+ktor                     14 hrs 16 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
+maplibre-src             4 hrs 38 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
+imgui-src                1 hrs 12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
 
 ```
 
 
- Last Updated on 19/08/2026 05:28:35 UTC
+ Last Updated on 20/08/2026 05:28:46 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
