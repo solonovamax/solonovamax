@@ -95,13 +95,13 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 121 Contributions in the Year 2026
+> 133 Contributions in the Year 2026
 > 
 > 133.2 kB Used in GitHub's Storage
 > 
 > Opted to Hire
 > 
-> 193 Public Repositories
+> 194 Public Repositories
 > 
 > 9 Private Repositories
 > 
@@ -110,8 +110,8 @@ Here are some of the tools I use to get my work done:
 ```text
 I work mostly in the mornings: 
 Morning      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
-Daytime      197 commits    ███████████░░░░░░░░░░░░░░   44.67% 
-Evening      160 commits    █████████░░░░░░░░░░░░░░░░   36.28% 
+Daytime      198 commits    ███████████░░░░░░░░░░░░░░   44.9% 
+Evening      159 commits    █████████░░░░░░░░░░░░░░░░   36.05% 
 Night        54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24%
 
 
@@ -119,9 +119,9 @@ I'm Most Productive on Tuesday:
 Monday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
 Tuesday      89 commits     █████░░░░░░░░░░░░░░░░░░░░   20.18% 
 Wednesday    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+Thursday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
 Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-Saturday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
+Saturday     49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 Sunday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43%
 
 ```
@@ -133,27 +133,27 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   30 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   22.84% 
-Typescript               28 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   21.28% 
-C++                      12 hrs 32 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
-Vue                      9 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Javascript               7 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.32%
+Typescript               28 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   22.58% 
+Kotlin                   23 hrs 58 mins      ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+C++                      12 hrs 32 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
+Vue                      9 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+Yaml                     7 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 
 Editors: 
-IntelliJ                 97 hrs 6 mins       █████████████████░░░░░░░░   71.86% 
-CLion                    38 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   28.14%
+IntelliJ                 88 hrs 41 mins      █████████████████░░░░░░░░   69.99% 
+CLion                    38 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   30.01%
 
 Projects: 
-TraxMA                   82 hrs 40 mins      ███████████████░░░░░░░░░░   61.18% 
-robot-repo-ros2          29 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   21.79% 
-ktor                     14 hrs 16 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
-maplibre-src             4 hrs 38 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-imgui-src                1 hrs 12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+TraxMA                   80 hrs 34 mins      ███████████████░░░░░░░░░░   63.58% 
+robot-repo-ros2          29 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   23.24% 
+ktor                     7 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
+maplibre-src             4 hrs 38 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
+imgui-src                1 hrs 12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
 
 ```
 
 
- Last Updated on 20/08/2026 05:28:46 UTC
+ Last Updated on 21/08/2026 05:30:30 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
