@@ -133,26 +133,27 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   12 hrs 59 mins      ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
-Go template              10 hrs 8 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
-Typescript               9 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.5% 
-Html                     9 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-Json                     4 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.09%
+Kotlin                   12 hrs 55 mins      █████░░░░░░░░░░░░░░░░░░░░   21.91% 
+Go template              8 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+Typescript               8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Html                     7 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Json                     3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
 
 Editors: 
-IntelliJ                 67 hrs 24 mins      █████████████████████████   100%
+IntelliJ                 58 hrs 58 mins      █████████████████████████   100% 
+CLion                    0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 Projects: 
-solonovamax.gay          31 hrs 27 mins      ███████████░░░░░░░░░░░░░░   46.66% 
-congo-blowfish           28 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   42.26% 
-blog.solonovamax.gay     7 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-github-branch-source-plug0 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
-ktor                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+solonovamax.gay          31 hrs 0 mins       █████████████░░░░░░░░░░░░   52.57% 
+congo-blowfish           21 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   36.41% 
+blog.solonovamax.gay     6 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
+github-branch-source-plug0 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
+hugo-responsive-images   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
 
- Last Updated on 26/09/2026 09:42:45 UTC
+ Last Updated on 27/09/2026 10:22:25 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
