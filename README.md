@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 146 Contributions in the Year 2026
+> 147 Contributions in the Year 2026
 > 
 > 133.2 kB Used in GitHub's Storage
 > 
@@ -133,27 +133,27 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   12 hrs 55 mins      █████░░░░░░░░░░░░░░░░░░░░   22.68% 
-Go template              8 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
-Typescript               7 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14% 
-Html                     7 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
-Json                     3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
+Kotlin                   12 hrs 54 mins      █████░░░░░░░░░░░░░░░░░░░░   23.59% 
+Typescript               7 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Go template              5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Html                     5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+Json                     2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.39%
 
 Editors: 
-IntelliJ                 56 hrs 28 mins      ████████████████████████░   99.16% 
-CLion                    0 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
+IntelliJ                 49 hrs 33 mins      ██████████████████████░░░   90.54% 
+CLion                    5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.46%
 
 Projects: 
-solonovamax.gay          31 hrs 0 mins       █████████████░░░░░░░░░░░░   54.42% 
-congo-blowfish           19 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   34.32% 
-blog.solonovamax.gay     5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
-robot-repo-ros2          0 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
-github-branch-source-plug0 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+solonovamax.gay          30 hrs 59 mins      ██████████████░░░░░░░░░░░   56.62% 
+congo-blowfish           13 hrs 26 mins      ██████░░░░░░░░░░░░░░░░░░░   24.56% 
+blog.solonovamax.gay     4 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
+robot-repo-ros2          3 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.53% 
+Comp345Project           1 hrs 28 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
 
 ```
 
 
- Last Updated on 28/09/2026 11:27:06 UTC
+ Last Updated on 29/09/2026 11:07:09 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
