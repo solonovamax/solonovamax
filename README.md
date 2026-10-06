@@ -95,9 +95,9 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 154 Contributions in the Year 2026
+> 155 Contributions in the Year 2026
 > 
-> 133.2 kB Used in GitHub's Storage
+> 133.3 kB Used in GitHub's Storage
 > 
 > Opted to Hire
 > 
@@ -109,20 +109,20 @@ Here are some of the tools I use to get my work done:
 
 ```text
 I work mostly in the mornings: 
-Morning      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
-Daytime      196 commits    ███████████░░░░░░░░░░░░░░   46.89% 
-Evening      138 commits    ████████░░░░░░░░░░░░░░░░░   33.01% 
-Night        54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
+Morning      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+Daytime      155 commits    ████████████░░░░░░░░░░░░░   48.74% 
+Evening      93 commits     ███████░░░░░░░░░░░░░░░░░░   29.25% 
+Night        40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
 
 
 I'm Most Productive on Tuesday: 
-Monday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Tuesday      79 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
-Wednesday    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
-Thursday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
-Friday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Saturday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-Sunday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0%
+Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
+Tuesday      71 commits     █████░░░░░░░░░░░░░░░░░░░░   22.33% 
+Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
+Thursday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
+Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
+Saturday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
+Sunday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.26%
 
 ```
 
@@ -133,27 +133,27 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   13 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   22.89% 
-Typescript               7 hrs 1 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Python                   6 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
-C++                      3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
-Html                     3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
+Kotlin                   13 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63% 
+Typescript               7 hrs 1 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.57% 
+Python                   6 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+C++                      5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
+Html                     3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.99%
 
 Editors: 
-IntelliJ                 37 hrs 55 mins      ████████████████░░░░░░░░░   66.14% 
-CLion                    19 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   33.86%
+IntelliJ                 37 hrs 55 mins      ███████████████░░░░░░░░░░   62.49% 
+CLion                    22 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   37.51%
 
 Projects: 
-solonovamax.gay          31 hrs 17 mins      █████████████░░░░░░░░░░░░   54.59% 
-robot-repo-ros2          16 hrs 0 mins       ██████░░░░░░░░░░░░░░░░░░░   27.9% 
-congo-blowfish           4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
-Comp345Project           3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.52% 
-blog.solonovamax.gay     1 hrs 44 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
+solonovamax.gay          31 hrs 17 mins      ████████████░░░░░░░░░░░░░   51.58% 
+robot-repo-ros2          19 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   31.89% 
+congo-blowfish           4 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
+Comp345Project           3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
+blog.solonovamax.gay     1 hrs 44 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85%
 
 ```
 
 
- Last Updated on 05/10/2026 12:03:00 UTC
+ Last Updated on 06/10/2026 11:48:51 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
