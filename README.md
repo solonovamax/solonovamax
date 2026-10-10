@@ -109,20 +109,20 @@ Here are some of the tools I use to get my work done:
 
 ```text
 I work mostly in the mornings: 
-Morning      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-Daytime      155 commits    ████████████░░░░░░░░░░░░░   48.59% 
-Evening      94 commits     ███████░░░░░░░░░░░░░░░░░░   29.47% 
-Night        40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54%
+Morning      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
+Daytime      129 commits    ██████████████░░░░░░░░░░░   58.9% 
+Evening      39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+Night        22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
 
 
 I'm Most Productive on Tuesday: 
-Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
-Tuesday      71 commits     █████░░░░░░░░░░░░░░░░░░░░   22.26% 
-Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
-Thursday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
-Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-Sunday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.23%
+Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+Tuesday      52 commits     █████░░░░░░░░░░░░░░░░░░░░   23.74% 
+Wednesday    45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.55% 
+Thursday     28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
+Friday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
+Saturday     27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
+Sunday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
 
 ```
 
@@ -133,27 +133,27 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-Kotlin                   13 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-C++                      8 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
-Typescript               7 hrs 1 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
-Python                   6 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
-C/c++                    3 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
+Kotlin                   13 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23% 
+C++                      8 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
+Typescript               6 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
+Python                   6 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+C/c++                    3 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.53%
 
 Editors: 
-IntelliJ                 36 hrs 49 mins      ██████████████░░░░░░░░░░░   57.53% 
-CLion                    27 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   42.47%
+IntelliJ                 35 hrs 19 mins      ██████████████░░░░░░░░░░░   56.98% 
+CLion                    26 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   43.02%
 
 Projects: 
-solonovamax.gay          31 hrs 17 mins      ████████████░░░░░░░░░░░░░   48.89% 
-robot-repo-ros2          23 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   37.14% 
-congo-blowfish           4 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.28% 
-Comp345Project           3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
-blog.solonovamax.gay     1 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
+solonovamax.gay          31 hrs 17 mins      ████████████░░░░░░░░░░░░░   50.49% 
+robot-repo-ros2          23 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   37.51% 
+Comp345Project           3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.1% 
+congo-blowfish           2 hrs 2 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
+School-LaTeX             1 hrs 7 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
 
 ```
 
 
- Last Updated on 09/10/2026 11:40:05 UTC
+ Last Updated on 10/10/2026 10:57:44 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
