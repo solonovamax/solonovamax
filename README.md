@@ -133,27 +133,27 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-C++                      14 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   26.62% 
-C/c++                    6 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-Python                   6 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-Typescript               3 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-Ini                      3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.82%
+C++                      17 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   31.34% 
+C/c++                    8 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Python                   6 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+C/c++ header             4 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
+Ini                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.72%
 
 Editors: 
-CLion                    43 hrs 8 mins       ███████████████████░░░░░░   79.8% 
-IntelliJ                 10 hrs 55 mins      █████░░░░░░░░░░░░░░░░░░░░   20.2%
+CLion                    49 hrs 2 mins       ██████████████████████░░░   88.07% 
+IntelliJ                 6 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.93%
 
 Projects: 
-robot-repo-ros2          25 hrs 32 mins      ███████████░░░░░░░░░░░░░░   47.25% 
-Comp345Project           17 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   31.57% 
-solonovamax.gay          8 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
-School-LaTeX             1 hrs 11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
-Comp352                  0 hrs 47 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
+robot-repo-ros2          31 hrs 36 mins      ██████████████░░░░░░░░░░░   56.77% 
+Comp345Project           14 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   26.22% 
+solonovamax.gay          3 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.89% 
+maplibre-src             2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
+School-LaTeX             1 hrs 11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
 
 ```
 
 
- Last Updated on 20/10/2026 09:49:10 UTC
+ Last Updated on 21/10/2026 09:50:10 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
