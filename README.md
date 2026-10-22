@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 157 Contributions in the Year 2026
+> 158 Contributions in the Year 2026
 > 
 > 133.3 kB Used in GitHub's Storage
 > 
@@ -133,27 +133,27 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-C++                      17 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   31.34% 
-C/c++                    8 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
-Python                   6 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-C/c++ header             4 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-Ini                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.72%
+C++                      18 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   32% 
+C/c++                    8 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
+Python                   6 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
+C/c++ header             4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
+Ini                      2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.59%
 
 Editors: 
-CLion                    49 hrs 2 mins       ██████████████████████░░░   88.07% 
-IntelliJ                 6 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.93%
+CLion                    50 hrs 37 mins      ██████████████████████░░░   88.42% 
+IntelliJ                 6 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.58%
 
 Projects: 
-robot-repo-ros2          31 hrs 36 mins      ██████████████░░░░░░░░░░░   56.77% 
-Comp345Project           14 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   26.22% 
-solonovamax.gay          3 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.89% 
-maplibre-src             2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
-School-LaTeX             1 hrs 11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
+robot-repo-ros2          32 hrs 22 mins      ██████████████░░░░░░░░░░░   56.55% 
+Comp345Project           14 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.51% 
+solonovamax.gay          3 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+maplibre-src             3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+School-LaTeX             1 hrs 11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 ```
 
 
- Last Updated on 21/10/2026 09:50:10 UTC
+ Last Updated on 22/10/2026 09:51:14 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
