@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 224 Contributions in the Year 2026
+> 255 Contributions in the Year 2026
 > 
 > 133.2 kB Used in GitHub's Storage
 > 
@@ -109,20 +109,20 @@ Here are some of the tools I use to get my work done:
 
 ```text
 I work mostly in the mornings: 
-Morning      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
-Daytime      132 commits    ████████████░░░░░░░░░░░░░   50.57% 
-Evening      68 commits     ██████░░░░░░░░░░░░░░░░░░░   26.05% 
-Night        33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64%
+Morning      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+Daytime      142 commits    ████████████░░░░░░░░░░░░░   48.8% 
+Evening      87 commits     ███████░░░░░░░░░░░░░░░░░░   29.9% 
+Night        34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.68%
 
 
-I'm Most Productive on Tuesday: 
-Monday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Tuesday      50 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
-Wednesday    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
-Friday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
-Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Sunday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
+I'm Most Productive on Sunday: 
+Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.68% 
+Tuesday      50 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
+Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
+Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+Friday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
+Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
+Sunday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.99%
 
 ```
 
@@ -133,27 +133,27 @@ Sunday       35 commits     ███░░░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-C++                      25 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   24.98% 
-C/c++                    14 hrs 28 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
-Latex                    13 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
-C/c++ header             8 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
-C                        6 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+C++                      29 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   26.34% 
+C/c++                    16 hrs 21 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
+Latex                    13 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+C/c++ header             9 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+C                        7 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.34%
 
 Editors: 
-CLion                    80 hrs 53 mins      ███████████████████░░░░░░   78.06% 
-IntelliJ                 22 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   21.94%
+CLion                    88 hrs 25 mins      ███████████████████░░░░░░   79.54% 
+IntelliJ                 22 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   20.46%
 
 Projects: 
-Comp345Project           32 hrs 46 mins      ███████░░░░░░░░░░░░░░░░░░   31.63% 
-robot-repo-ros2          27 hrs 0 mins       ██████░░░░░░░░░░░░░░░░░░░   26.06% 
-School-LaTeX             15 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
-Comp348-A1               11 hrs 10 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
-Comp352                  6 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.93%
+Comp345Project           38 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   34.99% 
+robot-repo-ros2          27 hrs 0 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29% 
+School-LaTeX             15 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+Comp348-A1               11 hrs 10 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+scsr-eskf                6 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 
 ```
 
 
- Last Updated on 15/11/2026 12:30:21 UTC
+ Last Updated on 16/11/2026 13:22:17 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
