@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 255 Contributions in the Year 2026
+> 260 Contributions in the Year 2026
 > 
 > 133.2 kB Used in GitHub's Storage
 > 
@@ -109,20 +109,20 @@ Here are some of the tools I use to get my work done:
 
 ```text
 I work mostly in the mornings: 
-Morning      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-Daytime      142 commits    ████████████░░░░░░░░░░░░░   48.8% 
-Evening      87 commits     ███████░░░░░░░░░░░░░░░░░░   29.9% 
-Night        34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.68%
+Morning      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
+Daytime      144 commits    ████████████░░░░░░░░░░░░░   48.81% 
+Evening      87 commits     ███████░░░░░░░░░░░░░░░░░░   29.49% 
+Night        34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.53%
 
 
 I'm Most Productive on Sunday: 
-Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-Tuesday      50 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
-Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.46% 
-Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
-Friday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
-Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
-Sunday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.99%
+Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
+Tuesday      50 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
+Wednesday    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
+Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
+Sunday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.69%
 
 ```
 
@@ -133,27 +133,27 @@ Sunday       64 commits     █████░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-C++                      29 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   26.34% 
-C/c++                    16 hrs 21 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
-Latex                    13 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
-C/c++ header             9 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-C                        7 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.34%
+C++                      29 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   25.72% 
+C/c++                    16 hrs 33 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
+Latex                    13 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+C/c++ header             9 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+Python                   7 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.35%
 
 Editors: 
-CLion                    88 hrs 25 mins      ███████████████████░░░░░░   79.54% 
-IntelliJ                 22 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   20.46%
+CLion                    94 hrs 9 mins       ████████████████████░░░░░   81.14% 
+IntelliJ                 21 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   18.86%
 
 Projects: 
-Comp345Project           38 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   34.99% 
-robot-repo-ros2          27 hrs 0 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29% 
-School-LaTeX             15 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
-Comp348-A1               11 hrs 10 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
-scsr-eskf                6 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
+Comp345Project           39 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   34.32% 
+robot-repo-ros2          26 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   22.97% 
+School-LaTeX             15 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
+Comp348-A1               11 hrs 10 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+scsr-eskf                6 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
 
 ```
 
 
- Last Updated on 16/11/2026 13:22:17 UTC
+ Last Updated on 17/11/2026 14:07:08 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
