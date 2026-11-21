@@ -95,7 +95,7 @@ Here are some of the tools I use to get my work done:
 <!--START_SECTION:waka-->
 **My GitHub Data**
 
-> 260 Contributions in the Year 2026
+> 261 Contributions in the Year 2026
 > 
 > 133.2 kB Used in GitHub's Storage
 > 
@@ -133,27 +133,27 @@ Sunday       64 commits     █████░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-C++                      28 hrs 49 mins      ██████░░░░░░░░░░░░░░░░░░░   25.57% 
-C/c++                    16 hrs 10 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-Latex                    13 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-C/c++ header             9 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Python                   7 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.54%
+C++                      25 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   24.33% 
+C/c++                    14 hrs 49 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+Latex                    13 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
+C/c++ header             8 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.96% 
+Python                   7 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7%
 
 Editors: 
-CLion                    91 hrs 39 mins      ████████████████████░░░░░   81.29% 
-IntelliJ                 21 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.71%
+CLion                    84 hrs 21 mins      ███████████████████░░░░░░   79.99% 
+IntelliJ                 21 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01%
 
 Projects: 
-Comp345Project           37 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   33.12% 
-robot-repo-ros2          26 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   23.64% 
-School-LaTeX             15 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
-Comp348-A1               11 hrs 10 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
-scsr-eskf                6 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.67%
+Comp345Project           34 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   32.3% 
+robot-repo-ros2          24 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   22.91% 
+School-LaTeX             15 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
+Comp348-A1               11 hrs 10 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+scsr-eskf                6 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.11%
 
 ```
 
 
- Last Updated on 18/11/2026 13:40:50 UTC
+ Last Updated on 21/11/2026 13:15:14 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
