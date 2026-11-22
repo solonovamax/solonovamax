@@ -109,20 +109,20 @@ Here are some of the tools I use to get my work done:
 
 ```text
 I work mostly in the mornings: 
-Morning      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-Daytime      144 commits    ████████████░░░░░░░░░░░░░   48.81% 
-Evening      87 commits     ███████░░░░░░░░░░░░░░░░░░   29.49% 
-Night        34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.53%
+Morning      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
+Daytime      144 commits    ████████████░░░░░░░░░░░░░   48.65% 
+Evening      87 commits     ███████░░░░░░░░░░░░░░░░░░   29.39% 
+Night        34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49%
 
 
 I'm Most Productive on Sunday: 
-Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
-Tuesday      50 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
-Wednesday    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
-Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.86% 
-Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
-Sunday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.69%
+Monday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
+Tuesday      50 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
+Wednesday    45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
+Thursday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
+Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.82% 
+Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
+Sunday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.62%
 
 ```
 
@@ -133,27 +133,27 @@ Sunday       64 commits     █████░░░░░░░░░░░░�
 Time Zone: America/Toronto
 
 Programming Languages: 
-C++                      25 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   24.33% 
-C/c++                    14 hrs 49 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
-Latex                    13 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
-C/c++ header             8 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.96% 
-Python                   7 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7%
+C++                      26 hrs 0 mins       ██████░░░░░░░░░░░░░░░░░░░   24.2% 
+Latex                    13 hrs 59 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
+C/c++                    13 hrs 24 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
+Python                   12 hrs 35 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+Markdown                 8 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.85%
 
 Editors: 
-CLion                    84 hrs 21 mins      ███████████████████░░░░░░   79.99% 
-IntelliJ                 21 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01%
+CLion                    86 hrs 23 mins      ████████████████████░░░░░   80.37% 
+IntelliJ                 21 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.63%
 
 Projects: 
-Comp345Project           34 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   32.3% 
-robot-repo-ros2          24 hrs 9 mins       █████░░░░░░░░░░░░░░░░░░░░   22.91% 
-School-LaTeX             15 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-Comp348-A1               11 hrs 10 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
-scsr-eskf                6 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.11%
+robot-repo-ros2          33 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   31.63% 
+Comp345Project           33 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   31.61% 
+School-LaTeX             15 hrs 43 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+scsr-eskf                6 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.99% 
+Comp352                  5 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
 
 ```
 
 
- Last Updated on 21/11/2026 13:15:14 UTC
+ Last Updated on 22/11/2026 13:04:15 UTC
 <!--END_SECTION:waka-->
 
 <div style="white-space:nowrap;width:100%;position: relative;display: inline-block">
